@@ -1,0 +1,22 @@
+<div class="resumen-container">
+    <h1>Resumen de Transacciones</h1>
+  
+    <div *ngIf="resumen; else loading">
+      <div class="cliente-mayor-gasto">
+        <h2>Cliente con Mayor Gasto</h2>
+        <p><strong>Cliente:</strong> {{ resumen.clienteMayorGasto.cliente }}</p>
+        <p><strong>Total Gasto:</strong> ${{ resumen.clienteMayorGasto.totalGasto }}</p>
+      </div>
+  
+      <div class="producto-mas-vendido">
+        <h2>Producto Más Vendido</h2>
+        <p><strong>Producto:</strong> {{ resumen.productoMasVendido.producto }}</p>
+        <p><strong>Cantidad Total:</strong> {{ resumen.productoMasVendido.totalCantidad }}</p>
+      </div>
+    </div>
+  
+    <ng-template #loading>
+      <p>Cargando resumen...</p>
+    </ng-template>
+  </div>
+  
