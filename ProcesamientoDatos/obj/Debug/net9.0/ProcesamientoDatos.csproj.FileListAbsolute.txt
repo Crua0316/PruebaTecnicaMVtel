@@ -1,0 +1,14 @@
+C:\Users\Mvtel.HV-00053\Desktop\Prueba\ProcesamientoDatos\bin\Debug\net9.0\ProcesamientoDatos.exe
+C:\Users\Mvtel.HV-00053\Desktop\Prueba\ProcesamientoDatos\bin\Debug\net9.0\ProcesamientoDatos.deps.json
+C:\Users\Mvtel.HV-00053\Desktop\Prueba\ProcesamientoDatos\bin\Debug\net9.0\ProcesamientoDatos.runtimeconfig.json
+C:\Users\Mvtel.HV-00053\Desktop\Prueba\ProcesamientoDatos\bin\Debug\net9.0\ProcesamientoDatos.dll
+C:\Users\Mvtel.HV-00053\Desktop\Prueba\ProcesamientoDatos\bin\Debug\net9.0\ProcesamientoDatos.pdb
+C:\Users\Mvtel.HV-00053\Desktop\Prueba\ProcesamientoDatos\obj\Debug\net9.0\ProcesamientoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mvtel.HV-00053\Desktop\Prueba\ProcesamientoDatos\obj\Debug\net9.0\ProcesamientoDatos.AssemblyInfoInputs.cache
+C:\Users\Mvtel.HV-00053\Desktop\Prueba\ProcesamientoDatos\obj\Debug\net9.0\ProcesamientoDatos.AssemblyInfo.cs
+C:\Users\Mvtel.HV-00053\Desktop\Prueba\ProcesamientoDatos\obj\Debug\net9.0\ProcesamientoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Mvtel.HV-00053\Desktop\Prueba\ProcesamientoDatos\obj\Debug\net9.0\ProcesamientoDatos.dll
+C:\Users\Mvtel.HV-00053\Desktop\Prueba\ProcesamientoDatos\obj\Debug\net9.0\refint\ProcesamientoDatos.dll
+C:\Users\Mvtel.HV-00053\Desktop\Prueba\ProcesamientoDatos\obj\Debug\net9.0\ProcesamientoDatos.pdb
+C:\Users\Mvtel.HV-00053\Desktop\Prueba\ProcesamientoDatos\obj\Debug\net9.0\ProcesamientoDatos.genruntimeconfig.cache
+C:\Users\Mvtel.HV-00053\Desktop\Prueba\ProcesamientoDatos\obj\Debug\net9.0\ref\ProcesamientoDatos.dll
